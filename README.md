@@ -8,12 +8,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / LESS / PHP / REACT / DART / FLUTTER / PYTHON 
 
- 🔭 I’m currently working on MateRoyal IT <br>
- 🌱 I’m currently learning Python <br>
- 👯 I’m looking to collaborate on GITHUB <br>
- 💬 Ask me about towkir.info <br>
- 📫 How to reach me: 01969663344 <br>
- 😄 Pronouns: Software Developer 
+- 🔭 I’m currently working on MateRoyal IT <br>
+- 🌱 I’m currently learning Python <br>
+- 👯 I’m looking to collaborate on GITHUB <br>
+- 💬 Ask me about towkir.info <br>
+- 📫 How to reach me: 01969663344 <br>
+- 😄 Pronouns: Software Developer 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/t0wk1r)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/t0wk1r/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/t0wk1r)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/t0wk1r/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/t0wk1r)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/t0wk1r)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](towkir.info)  
