@@ -8,11 +8,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / LESS / PHP / REACT / DART / FLUTTER / PYTHON 
 
- 🔭 I’m currently working on MateRoyal IT 
- 🌱 I’m currently learning Python 
- 👯 I’m looking to collaborate on GITHUB 
- 💬 Ask me about towkir.info 
- 📫 How to reach me: 01969663344 
+ 🔭 I’m currently working on MateRoyal IT <br>
+ 🌱 I’m currently learning Python <br>
+ 👯 I’m looking to collaborate on GITHUB <br>
+ 💬 Ask me about towkir.info <br>
+ 📫 How to reach me: 01969663344 <br>
  😄 Pronouns: Software Developer 
 
 
